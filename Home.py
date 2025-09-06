@@ -9,7 +9,7 @@ LOGGER = get_logger(__name__)
 
 def run():
     st.set_page_config(
-        page_title="Agiliad AI Apps",
+        page_title="AI Apps",
         page_icon="🏚",
         layout="wide"
     )
